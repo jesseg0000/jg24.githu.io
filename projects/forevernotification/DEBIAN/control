@@ -1,0 +1,7 @@
+Package: com.jg24.forevernotification
+Name: forevernotification
+Version: 1.0
+Description: Keeps Notification on LockScreen after unlock.
+Maintainer: JG24 <jesseg0000@gmail.com>
+Author: JG24 <jesseg0000@gmail.com>
+Section: Tweak

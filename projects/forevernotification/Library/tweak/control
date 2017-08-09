@@ -1,9 +1,0 @@
-Package: com.mcrafters.forevernotification
-Name: ForeverNotification
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Keep notifications on your LockScreen until you dismiss them!
-Maintainer: jesse
-Author: jesse
-Section: Tweaks

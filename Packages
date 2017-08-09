@@ -1,0 +1,13 @@
+Package: com.jg24.forevernotification
+Version: 1.0
+Maintainer: JG24 <jesseg0000@gmail.com>
+Filename: ./debs//com.jg24.forevernotification_1.0.deb
+Size: 1478
+MD5sum: c15e31d8a98d97cd75c9bee241246313
+SHA1: 830cd9c2b0bb8942b415b95fe95022e1082b4fed
+SHA256: 8f3264c2395be0213c489f9e9feadac8ba489369353a83df35673d11a898dbf2
+Section: Tweak
+Description: Keeps Notification on LockScreen after unlock.
+Author: JG24 <jesseg0000@gmail.com>
+Name: forevernotification
+
