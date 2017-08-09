@@ -1,0 +1,8 @@
+Origin: JG24s Public Repository
+Label: JG24s Public Repo
+Suite: stable
+Version:1.0
+Codename: ios
+Architectures: iphoneos-arm
+components: main
+Description: Welcome to my public repo!!
